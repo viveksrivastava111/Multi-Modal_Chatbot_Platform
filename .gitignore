@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+data/sample.db.user
+data/vector_store/
+.streamlit/secrets.toml
+venv/
+.venv/
+*.egg-info/
